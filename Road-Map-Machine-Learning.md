@@ -1,4 +1,4 @@
-# 21-Days-Of-Machine-Learning
+# Road-Map-Of-Machine-Learning
 
 ## Day: 1
 
